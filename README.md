@@ -14,7 +14,7 @@ CSS3 (Flexbox)
 • Static design (no responsive features)  
 
 ### Files
-index.html – page structure  
-style.css – page styling
-Images/placeholder.jpg - placeholder image
-Images/design-to-be-replicated.png - image of the Landing Page that has to be replicated
+* index.html – page structure  
+* style.css – page styling
+* Images/placeholder.jpg - placeholder image
+* Images/design-to-be-replicated.png - image of the Landing Page that has to be replicated
