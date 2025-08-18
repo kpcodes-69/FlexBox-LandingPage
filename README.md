@@ -16,3 +16,5 @@ CSS3 (Flexbox)
 ### Files
 index.html – page structure  
 style.css – page styling
+Images/placeholder.jpg - placeholder image
+Images/design-to-be-replicated.png - image of the Landing Page that has to be replicated
